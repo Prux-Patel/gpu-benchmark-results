@@ -1,0 +1,6 @@
+Timestamp,Inference Count,GPU Memory (MB),GPU Utilization (%),Temperature (C),Throughput (inferences/sec)
+12:29:09,2,11829,84,47,0
+12:31:18,4,11829,85,47,.02
+12:33:27,6,6068,86,47,.02
+12:35:37,8,6068,85,47,.02
+12:37:47,10,6068,66,47,.01
